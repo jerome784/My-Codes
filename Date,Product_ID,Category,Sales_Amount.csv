@@ -1,0 +1,6 @@
+Date,Product_ID,Category,Sales_Amount,Units_Sold
+2024-02-01,101,Electronics,5000,2
+2024-02-02,102,Fashion,,1
+2024-02-03,103,Groceries,120,5
+2024-02-04,104,Electronics,8000,1
+2024-02-05,105,Fashion,1500,
