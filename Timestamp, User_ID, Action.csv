@@ -1,0 +1,7 @@
+ Timestamp, User_ID, Action
+Timestamp,User_ID,Action
+2024-02-01 10:00,1001,Login
+2024-02-01 10:05,1002,View Product
+2024-02-01 10:10,1001,Add to Cart
+2024-02-01 10:15,1003,Purchase
+2024-02-01 10:20,1002,Logout
